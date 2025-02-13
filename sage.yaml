@@ -1,0 +1,13 @@
+name: "hpetest"
+version: "0.1.0"
+description: "To test the GPU resources on sage node"
+keywords: ""
+authors: ""
+collaborators: ""
+funding: ""
+license: ""
+homepage: ""
+source:
+  architectures:
+    - "linux/amd64"
+    - "linux/arm64"
